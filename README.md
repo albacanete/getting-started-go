@@ -13,3 +13,9 @@ Assignments of the Coursera course *Programming with Google Go* by Professor Ian
     - Module 6: Function Types
     - Module 7: Object Orientation in Go
     - Module 8: Interfaces for Abstraction
+
+3. **Concurrency in Go**
+    - Module 9: Why Use Concurrency?
+    - Module 10: Concurrency Basics
+    - Module 11: Threads in Go
+    - Module 12: Synchronized Communication
